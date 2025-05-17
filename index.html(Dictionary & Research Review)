@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AGI 안전 및 윤리: 다층적 접근법 - Dictionary & Research Review</title>
+    <link rel="stylesheet" href="css/style.css">
+    <style>
+        /* 페이지 특정 스타일 */
+        .dictionary-table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+        .dictionary-table th, .dictionary-table td {
+            border: 1px solid rgba(255, 255, 255, 0.3);
+            padding: 10px;
+            text-align: left;
+        }
+        .dictionary-table th {
+            background-color: rgba(0, 180, 216, 0.3);
+        }
+        .dictionary-table tr:nth-child(even) {
+            background-color: rgba(0, 0, 0, 0.4);
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>AGI 안전 및 윤리: 다층적 접근법</h1>
+            <p>Dictionary & Research Review</p>
+        </div>
+    </header>
+    <nav>
+        <div class="container">
+            <ul>
+                <li><a href="index.html">Dictionary & Research Review</a></li>
+                <li><a href="risk-management.html">TEAM ECLIPSE 위험 관리</a></li>
+                <li><a href="mobile-dictionary.html">모바일 백과사전</a></li>
+            </ul>
+        </div>
+    </nav>
+    <main>
+        <div class="container">
+            <section id="overview">
+                <h2>개요</h2>
+                <p>이 페이지에서는 AGI(인공 일반 지능) 안전 및 윤리에 관한 다층적 접근법을 제시하는 연구의 일환으로, 86개의 핵심 용어 사전과 현재 AGI 안전 연구 분야에 대한 종합적인 리뷰를 제공합니다.</p>
+            </section>
+            
+            <section id="dictionary">
+                <h2>Dictionary</h2>
+                <p>AGI 안전 및 윤리 관련 86개 용어의 정의와 설명입니다.</p>
+                
+                <!-- 여기에 용어 테이블이 들어갑니다. 모든 86개 용어를 포함하는 대신 처음 몇 개만 예시로 포함하고, 나머지는 실제 구현 시 추가합니다 -->
+                <table class="dictionary-table">
+                    <thead>
+                        <tr>
+                            <th>#</th>
+                            <th>Term</th>
+                            <th>English Explanation</th>
+                            <th>Korean One-liner</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1</td>
+                            <td>Accelerating Improvement Potential</td>
+                            <td>The assumption that AI systems themselves can automate the process of scientific research or technological development, potentially accelerating the pace of AI technology advancement.</td>
+                            <td>AI 시스템 스스로 과학 연구/기술 개발 자동화하여 AI 기술 발전 속도가 점점 빨라질 수 있다는 가정입니다.</td>
+                        </tr>
+                        <tr>
+                            <td>2</td>
+                            <td>Access Restrictions</td>
+                            <td>A preventative measure that limits access privileges to AI systems, particularly those with highly powerful or risky functionalities, to trusted, specific users or for specified purposes only.</td>
+                            <td>위험하거나 강력한 AI의 사용 권한을 신뢰할 수 있는 특정 사용자나 목적에만 제한하는 예방 조치입니다.</td>
+                        </tr>
+                        <!-- 추가 용어들... -->
+                    </tbody>
+                </table>
+            </section>
+            
+            <section id="research-review">
+                <h2>Research Review</h2>
+                <h3>AGI 안전 연구의 현재 지형</h3>
+                <p>최근 대규모 언어 모델(LLM)을 포함한 AI 시스템의 비약적 발전은 AGI 실현 가능성을 높였지만, 동시에 제어되지 않거나 잘못 정렬된 강력한 AI가 심각한 실존적 위험을 초래할 수 있다는 우려를 증폭시켰습니다.</p>
+                <!-- 추가 연구 리뷰 내용... -->
+            </section>
+        </div>
+    </main>
+    <footer>
+        <div class="container">
+            <p>© 2025 TEAM ECLIPSE. All rights reserved.</p>
+        </div>
+    </footer>
+    <script src="js/script.js"></script>
+</body>
+</html>
